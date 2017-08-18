@@ -1,1 +1,18 @@
-.publish
+{
+  "name": ".publish",
+  "path": ".publish",
+  "sha": "3f949857e8ed4cb106f9744e40b638a7aabf647f",
+  "size": 9,
+  "url": "https://api.github.com/repos/ianhomer/purplepip/contents/.publish?ref=master",
+  "html_url": "https://github.com/ianhomer/purplepip/blob/master/.publish",
+  "git_url": "https://api.github.com/repos/ianhomer/purplepip/git/blobs/3f949857e8ed4cb106f9744e40b638a7aabf647f",
+  "download_url": "https://raw.githubusercontent.com/ianhomer/purplepip/master/.publish",
+  "type": "file",
+  "content": "LnB1Ymxpc2gK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ianhomer/purplepip/contents/.publish?ref=master",
+    "git": "https://api.github.com/repos/ianhomer/purplepip/git/blobs/3f949857e8ed4cb106f9744e40b638a7aabf647f",
+    "html": "https://github.com/ianhomer/purplepip/blob/master/.publish"
+  }
+}
