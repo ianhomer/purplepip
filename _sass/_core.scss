@@ -3,11 +3,20 @@ body {
 }
 
 div.hold {
-  font-family: "Courier New";
-  font-size : 3em;
-  font-weight : bold;
-  margin : 4em;
-  color: #fff;
-  letter-spacing: 1em;
-  text-align: center;
+  h1 {
+    font-family: "Courier New";
+    font-size : 3em;
+    font-weight : bold;
+    margin : 2em 4em;
+    color: #fff;
+    letter-spacing: 1em;
+    text-align: center;
+  }
+
+  pre {
+    padding : 0em 5em;
+    margin : auto;
+    color: #fff;
+  }
 }
+
