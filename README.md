@@ -1,8 +1,10 @@
-<h1>purplepip</h1>
+<h1>pur ple pips</h1>
 
-<audio autoplay>
-  <source src="assets/audio/fool.ogg" type="audio/ogg">
-</audio>
+<div class="audio">
+  <audio controls loop>
+    <source src="assets/audio/fool.ogg" type="audio/ogg">
+  </audio>
+</div>
 
 <pre>
 There is a woman (or man)
