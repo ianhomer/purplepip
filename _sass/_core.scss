@@ -1,6 +1,7 @@
 body {
   background-color : #4B0082;
   padding : 0em 0em 4em 0em;
+  font-family : 'MontserratLight', sans-serif;
 }
 
 div.hold {
@@ -52,6 +53,16 @@ div.hold {
 
   audio::-webkit-media-controls-current-time-display {
     color : #fff;
+  }
+
+  div.more {
+    padding : 2em;
+    text-align : right;
+  }
+
+  div.more a {
+    color : #fff;
+    letter-spacing : 0.5em;
   }
 }
 
