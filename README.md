@@ -81,8 +81,3 @@ the air is still and
 it's so quiet.
 I'm sure there used to be birdsong.
 </pre>
-
-<div class="more"><a href="https://soundcloud.com/purple-pip">... more
-sounds</a>
-
-<div class="more"><a href="https://github.com/ianhomer">or code</a>
